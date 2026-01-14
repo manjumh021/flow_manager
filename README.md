@@ -4,7 +4,7 @@
 
 A generic Flow Manager system that executes tasks sequentially based on configurable conditions. Built with Python Flask as a RESTful microservice.
 
-## 🚀 Quick Start with Codespaces
+## Quick Start with Codespaces
 
 Click the badge above or visit the [Codespaces Guide](CODESPACES.md) to run this application in GitHub Codespaces with zero setup!
 
@@ -14,12 +14,12 @@ The Flow Manager allows you to define workflows with tasks and conditions in JSO
 
 ## Features
 
-- ✅ **Generic Flow Engine**: Support for any number of tasks and conditions
-- ✅ **Sequential Execution**: Tasks execute one after another with conditional routing
-- ✅ **REST API**: Full-featured API for flow execution and monitoring
-- ✅ **Extensible**: Easy to add new task types via task registry
-- ✅ **State Management**: Track execution history and status
-- ✅ **Error Handling**: Robust error handling and logging
+- **Generic Flow Engine**: Support for any number of tasks and conditions
+- **Sequential Execution**: Tasks execute one after another with conditional routing
+- **REST API**: Full-featured API for flow execution and monitoring
+- **Extensible**: Easy to add new task types via task registry
+- **State Management**: Track execution history and status
+- **Error Handling**: Robust error handling and logging
 
 ## Architecture
 
@@ -276,7 +276,3 @@ The registry pattern allows adding new task types without modifying core engine 
 
 ### Why Store Execution State?
 Storing state enables status checking, debugging, and audit trails for workflow executions.
-
-## License
-
-MIT License
