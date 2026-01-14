@@ -1,6 +1,12 @@
 # Flow Manager Microservice
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/manjumh021/flow_manager)
+
 A generic Flow Manager system that executes tasks sequentially based on configurable conditions. Built with Python Flask as a RESTful microservice.
+
+## 🚀 Quick Start with Codespaces
+
+Click the badge above or visit the [Codespaces Guide](CODESPACES.md) to run this application in GitHub Codespaces with zero setup!
 
 ## Overview
 
