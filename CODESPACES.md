@@ -37,11 +37,11 @@ This repository is configured to run in GitHub Codespaces with zero setup requir
 ## What's Included
 
 The dev container configuration (`.devcontainer/devcontainer.json`) provides:
-- ✅ Python 3.9 runtime
-- ✅ Automatic dependency installation
-- ✅ Port forwarding for Flask (5000)
-- ✅ VS Code Python extensions
-- ✅ Pre-configured Python settings
+- Python 3.9 runtime
+- Automatic dependency installation
+- Port forwarding for Flask (5000)
+- VS Code Python extensions
+- Pre-configured Python settings
 
 ## Manual Setup (if not using Codespaces)
 
